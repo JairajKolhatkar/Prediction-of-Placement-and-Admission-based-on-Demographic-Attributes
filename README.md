@@ -72,5 +72,5 @@ openai
 
 For questions or collaboration:
 - Email: jairajkolhatkar@gmail.com
-- LinkedIn: [Jairaj Kolhatkar](https://www.linkedin.com/in/jairaj-kolhatkar)
+- LinkedIn: [Jairaj Kolhatkar](https://www.linkedin.com/in/jairaj-kolhatkar-77a81730a/)
 - GitHub: [JairajKolhatkar](https://github.com/JairajKolhatkar)
