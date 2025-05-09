@@ -1,0 +1,46 @@
+footer {
+    visibility: hidden;
+}
+
+/*Headers*/
+.e16nr0p30 {
+    text-align: center;
+}
+
+/*sign up button*/
+.edgvbvh5 {
+    width: 23%;
+    background-color: red;
+    color: white;
+    font-size: 64px;
+}
+
+.edgvbvh5:hover {
+    background-color: red;
+    color: white;
+}
+
+.edgvbvh5:active {
+    background-color: red;
+    color: white;
+}
+
+/*pages sidebar*/
+.e1fqkh3o9 {
+    display: none;
+    padding-bottom: 23px;
+}
+
+/*Sidebar*/
+.css-6qob1r,.e1fqkh3o3 {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: overlay;
+    background-color: rgba(218, 45, 45, 0.888);
+}
+
+.css-1qw3w76 {
+    padding: 1%;
+
+}

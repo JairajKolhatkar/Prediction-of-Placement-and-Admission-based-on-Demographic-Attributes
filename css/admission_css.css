@@ -1,0 +1,97 @@
+/*footer*/
+
+footer {
+    visibility: hidden;
+}
+
+/* Sidebar */
+.css-hied5v,
+.e1fqkh3o10,
+.css-wjbhl0 {
+    display: none;
+}
+
+/* Sidebar button */
+.css-629wbf:hover,
+.edgvbvh10:hover {
+    background-color: red;
+    color: white;
+    font-size: 24px;
+}
+
+.css-629wbf,
+.edgvbvh10 {
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    width: 10em;
+}
+
+.css-1qw3w76,
+.egzxvld4 {
+    padding: 1rem 1rem 1.5rem;
+    text-align: center;
+}
+
+.css-184tjsw p {
+    word-break: break-word;
+    font-size: 1.8em;
+}
+
+.css-9s5bis,
+.edgvbvh3 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    border-radius: 0.25rem;
+    margin: 0px 1.125rem;
+    width: auto;
+    user-select: none;
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem;
+    font-size: 14px;
+    line-height: 1;
+}
+
+
+.css-163ttbj {
+    position: relative;
+    top: 2px;
+    background-color: rgb(240, 159, 172);
+    z-index: 999991;
+    min-width: 244px;
+    max-width: 550px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+}
+
+.css-6qob1r {
+    background-color: rgb(240, 159, 172);
+}
+
+/*Increase the gap between tab header*/
+.st-bn {
+    gap: 2rem;
+}
+
+/*sidebar*/
+.css-blqyok,
+.css-1yoge7t,
+.e1fqkh3o4 {
+    width: 317px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: white;
+    padding-top: 2.2em;
+    padding-right: 2.2em;
+    padding-bottom: 2.2em;
+    margin-left: 1em;
+
+}

@@ -1,0 +1,5 @@
+streamlit-lottie
+extra-streamlit-components
+streamlit-option-menu
+kaleido 
+openai
